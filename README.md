@@ -9,3 +9,21 @@ Timestamp	PageId	UserId
 
 10Sept		1		1
 10Sept		3		1
+
+
+
+No.of lines in file = x + y
+
+O(x+y)
+
+users in file 1: n
+users in file 2 : m
+timestamp : 2
+
+2*n + 2*m
+
+O(x+y + 2n + 2m)
+
+No .of UniquePages = p
+
+O(n*2*p) = O(2pn)
